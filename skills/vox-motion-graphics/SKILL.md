@@ -1,5 +1,5 @@
 ---
-name: leslie-vox-style
+name: vox-motion-graphics
 description: >
   Produce a complete narrated motion-graphics explainer video end-to-end with
   Higgsfield MCP: trend/topic research, fact-checked script, a locked style
@@ -7,7 +7,7 @@ description: >
   Two house styles: Vox-style Mixed Media collage (flat editorial, burned
   subtitles) and cinematic paper-diorama documentary (sepia newsprint worlds,
   censor-bar cutouts, letterpress props, fake-oner FPV energy). Use this
-  skill whenever the user asks for "Leslie Vox Style", a "Vox-style video", "motion graphics
+  skill whenever the user asks for a "Vox-style video", "motion graphics
   explainer", "animated explainer", "data-driven video", "cinematic paper /
   newspaper collage documentary", "make a video about X", "make a video
   about something trending/viral", a video "like the AI bubble reference",
@@ -16,7 +16,7 @@ description: >
   shorts/YouTube videos on geopolitics, money, or power via Higgsfield.
 ---
 
-# Leslie Vox Style Motion Graphics Explainer (Higgsfield MCP)
+# Vox-Style Motion Graphics Explainer (Higgsfield MCP)
 
 Turn one request — a topic, or nothing at all — into a finished Vox-style
 explainer video: bold editorial collage visuals, a documentary narrator, tight

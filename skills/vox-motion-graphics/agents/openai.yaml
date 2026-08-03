@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vox Motion Graphics"
+  short_description: "Build narrated editorial motion-graphics explainers"
+  default_prompt: "Use $vox-motion-graphics to produce a complete narrated motion-graphics explainer about this topic."

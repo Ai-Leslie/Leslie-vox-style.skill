@@ -1,4 +1,0 @@
-interface:
-  display_name: "Leslie Vox Style"
-  short_description: "Build narrated editorial motion-graphics explainers"
-  default_prompt: "Use $leslie-vox-style to produce a complete narrated motion-graphics explainer about this topic."

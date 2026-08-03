@@ -12,7 +12,7 @@ motion graphics.
    one editorial collage image prompt per beat.
 3. `editorial-paper-collage-animation` - animate a supplied final frame as a
    ten-second handcrafted paper-collage assembly.
-4. `leslie-vox-style` - produce a complete narrated motion-graphics explainer
+4. `vox-motion-graphics` - produce a complete narrated motion-graphics explainer
    through the Higgsfield MCP workflow.
 
 ## Install
@@ -20,19 +20,15 @@ motion graphics.
 Copy any folder from `skills/` into your Codex skills directory:
 
 ```bash
-cp -R skills/leslie-vox-style ~/.codex/skills/
+cp -R skills/vox-motion-graphics ~/.codex/skills/
 ```
 
-Packaged `.skill` archives are available in `packages/`. The original
-`vox-motion-graphics.skill` source package is included there as the final
-package for provenance and comparison.
-
-The folder and frontmatter name use lowercase `leslie-vox-style` to comply
-with Codex skill naming rules. Its UI display name is `Leslie Vox Style`.
+Packaged `.skill` archives are available in `packages/`. The fourth and final
+package is `vox-motion-graphics.skill`.
 
 ## Requirements
 
-The `leslie-vox-style` workflow expects access to the Higgsfield MCP tools
+The `vox-motion-graphics` workflow expects access to the Higgsfield MCP tools
 named in its `SKILL.md`. Trend research also requires web search access.
 
 ## License
