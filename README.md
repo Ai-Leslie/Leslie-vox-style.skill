@@ -1,4 +1,4 @@
-# Leslie Vox Style
+# Leslie-vox-style.skill
 
 An open-source Codex skill collection for documentary ideation, editorial
 paper-collage image prompts, locked-frame animation, and end-to-end Vox-style
