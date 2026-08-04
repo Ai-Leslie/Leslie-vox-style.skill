@@ -1,9 +1,11 @@
 ---
 name: editorial-paper-collage-animation
-description: 以提供的静态完成帧为唯一构图目标，按 VOXSTAGE 档案纸艺拼贴视觉系统生成 10 秒自组装动画提示词。用户要求纸艺拼贴动画、调查纪录片拼贴、锁定构图动画或将参考图制作成定格动画时使用。
+description: 以提供的静态完成帧为唯一构图目标，按 VOXSTAGE 档案纸艺拼贴视觉系统生成 10 秒自组装动画提示词。Generate a 10-second VOXSTAGE self-assembling paper-collage animation prompt from a supplied final frame. Use for paper-collage or locked-frame animation.
 ---
 
 # 编辑纸艺拼贴动画
+
+若用户使用英语，改读并遵循 [SKILL.en.md](SKILL.en.md) 及英文参考文件。所有语言版本均以 [assets/voxstage-reference.png](assets/voxstage-reference.png) 为统一视觉参考板。
 
 将用户提供的图像视为唯一的最终完成帧。生成一条 10 秒动画提示词，使拼贴在前 7 秒由空白背景自行组装，并在第 7 秒达到像素级一致的构图。不得重新设计、重定位、缩放、裁剪、替换或重新诠释任一元素。
 

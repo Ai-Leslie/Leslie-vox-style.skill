@@ -1,9 +1,11 @@
 ---
 name: documentary-narrative-engine
-description: 将任意主题开发为高级纪录片的选题、叙事结构、旁白脚本、VOXSTAGE 视觉节拍、动画和缩略图工作流。用户要求纪录片选题、视频创意、旁白脚本、纪录片分镜或缩略图概念时使用。
+description: 将任意主题开发为高级纪录片的选题、叙事结构、旁白脚本、VOXSTAGE 视觉节拍、动画和缩略图工作流。Develop documentary concepts, narration, VOXSTAGE visual beats, animation, and thumbnails. Use for documentary ideas, video concepts, scripts, storyboards, or thumbnails.
 ---
 
 # 纪录片叙事引擎
+
+若用户使用英语，改读并遵循 [SKILL.en.md](SKILL.en.md) 及英文参考文件。所有语言版本均以 [assets/voxstage-reference.png](assets/voxstage-reference.png) 为统一视觉参考板。
 
 将每个项目视为一个统一的纪录片叙事引擎（DNE）。根据题材确定叙事声音、信息密度、节奏、情绪强度、视觉身份、研究深度、编辑语言和缩略图心理；不要复制具体创作者的风格。
 
