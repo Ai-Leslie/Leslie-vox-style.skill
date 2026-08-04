@@ -1,6 +1,6 @@
 ---
 name: documentary-image-prompts
-description: 将纪录片旁白脚本拆解为精确时间码节拍表，并为每个节拍生成高级编辑纸艺拼贴图像提示词。用户要求纪录片分镜、视觉节拍、纸艺拼贴画面或逐镜图像提示词时使用。
+description: 将纪录片旁白脚本拆解为精确时间码节拍表，并按 VOXSTAGE 档案纸艺拼贴视觉系统生成逐镜图像提示词。用户要求纪录片分镜、视觉节拍、纸艺拼贴画面或逐镜图像提示词时使用。
 ---
 
 # 纪录片图像提示词
@@ -33,7 +33,7 @@ description: 将纪录片旁白脚本拆解为精确时间码节拍表，并为�
 - 一个主体占约 70% 构图，最多 2-3 个辅助元素。
 - 保留充足负空间与明确视觉层级。
 - 只有当节拍含日期、人名、地点、数字或组织时，才可在纸条、证物标签、印章或打字机说明条上放置一条 1-4 个词的档案标签；否则不得有可读文字。
-- 每条提示词都必须完整包含 [references/style-block.md](references/style-block.md) 中的“风格块”和“结尾块”。
+- 每条提示词都必须完整包含 [references/style-block.md](references/style-block.md) 中的“风格块”和“结尾块”。在开始前阅读 [references/voxstage-visual-system.md](references/voxstage-visual-system.md)，并把其舞台、组件、色彩与禁令落实到每一帧。
 
 ## 输出前检查
 
