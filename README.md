@@ -3,12 +3,19 @@
 An open-source, bilingual (中文 / English) Codex skill collection for documentary
 ideation, VOXSTAGE editorial paper-collage image prompts, and locked-frame animation.
 
-## VOXSTAGE reference board
+## Style reference boards
 
-![VOXSTAGE visual reference board](assets/voxstage-reference.png)
+| MG-VOXSTAGE | MG-SOFT3D |
+| --- | --- |
+| ![MG-VOXSTAGE](assets/mg-voxstage.webp) | ![MG-SOFT3D](assets/mg-soft3d.webp) |
 
-The same reference board is embedded in every packaged skill under
-`assets/voxstage-reference.png`, so each installation remains self-contained.
+| MG-GLASSDARK | MG-BLUEPRINT |
+| --- | --- |
+| ![MG-GLASSDARK](assets/mg-glassdark.webp) | ![MG-BLUEPRINT](assets/mg-blueprint.webp) |
+
+All four boards are embedded in every packaged skill under `assets/`, so each
+installation remains self-contained. MG-VOXSTAGE is the default; name another
+board explicitly to select it for a shot.
 
 ## Skills
 

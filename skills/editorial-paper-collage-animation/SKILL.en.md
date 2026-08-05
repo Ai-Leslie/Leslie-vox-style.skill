@@ -5,7 +5,7 @@ description: Generate a 10-second self-assembling animation prompt from a suppli
 
 # Editorial Paper-Collage Animation
 
-Treat the supplied image as the only final-frame composition. Read `references/voxstage-visual-system.en.md` and use `assets/voxstage-reference.png` as the canonical visual board. Generate one 10-second prompt in which the collage assembles from an empty background during the first seven seconds and matches the reference at exactly 7 seconds. Never redesign, reposition, scale, crop, replace, or reinterpret any element.
+Treat the supplied image as the only final-frame composition. Read `references/style-boards.en.md` and `references/voxstage-visual-system.en.md`. Use `assets/mg-voxstage.webp` by default; switch to another supplied board only when the user explicitly names it. Generate one 10-second prompt in which the collage assembles from an empty background during the first seven seconds and matches the reference at exactly 7 seconds. Never redesign, reposition, scale, crop, replace, or reinterpret any element.
 
 ## Fixed visual language
 

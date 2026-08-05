@@ -5,7 +5,7 @@ description: 以提供的静态完成帧为唯一构图目标，按 VOXSTAGE 档
 
 # 编辑纸艺拼贴动画
 
-若用户使用英语，改读并遵循 [SKILL.en.md](SKILL.en.md) 及英文参考文件。所有语言版本均以 [assets/voxstage-reference.png](assets/voxstage-reference.png) 为统一视觉参考板。
+若用户使用英语，改读并遵循 [SKILL.en.md](SKILL.en.md) 及英文参考文件。开始前读取 [references/style-boards.md](references/style-boards.md)：默认使用 [assets/mg-voxstage.webp](assets/mg-voxstage.webp)，仅在用户明确指定时切换其余三张风格板。
 
 将用户提供的图像视为唯一的最终完成帧。生成一条 10 秒动画提示词，使拼贴在前 7 秒由空白背景自行组装，并在第 7 秒达到像素级一致的构图。不得重新设计、重定位、缩放、裁剪、替换或重新诠释任一元素。
 

@@ -5,7 +5,7 @@ description: 将纪录片旁白脚本拆解为精确时间码节拍表，并按 
 
 # 纪录片图像提示词
 
-若用户使用英语，改读并遵循 [SKILL.en.md](SKILL.en.md) 及英文参考文件。所有语言版本均以 [assets/voxstage-reference.png](assets/voxstage-reference.png) 为统一视觉参考板。
+若用户使用英语，改读并遵循 [SKILL.en.md](SKILL.en.md) 及英文参考文件。开始前读取 [references/style-boards.md](references/style-boards.md)：默认使用 [assets/mg-voxstage.webp](assets/mg-voxstage.webp)，仅在用户明确指定时切换其余三张风格板。
 
 先完整理解故事，再拆分节拍，最后生成提示词。不要在完成节拍表前写图像提示词；不要输出内部推理。
 

@@ -5,7 +5,7 @@ description: Break a documentary narration into a precise timed beat table and g
 
 # Documentary Image Prompts
 
-Read `references/voxstage-visual-system.en.md` and use `assets/voxstage-reference.png` as the canonical visual board before writing prompts. First understand the complete story, then build the beat table, then write prompts. Never expose private reasoning.
+Read `references/style-boards.en.md` and `references/voxstage-visual-system.en.md` before writing prompts. Use `assets/mg-voxstage.webp` by default; switch to another supplied board only when the user explicitly names it. First understand the complete story, then build the beat table, then write prompts. Never expose private reasoning.
 
 ## 1. Parse the story
 

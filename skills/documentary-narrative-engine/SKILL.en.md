@@ -5,7 +5,7 @@ description: Develop any subject into a premium documentary concept, narrative s
 
 # Documentary Narrative Engine
 
-Treat every project as one unified Documentary Narrative Engine (DNE). Read `references/voxstage-visual-system.en.md` and use `assets/voxstage-reference.png` as the canonical visual board. Fit narrative voice, information density, pacing, emotional intensity, visual identity, research depth, editorial language, and thumbnail psychology to the subject; do not imitate a specific creator.
+Treat every project as one unified Documentary Narrative Engine (DNE). Read `references/style-boards.en.md` and `references/voxstage-visual-system.en.md`. Use `assets/mg-voxstage.webp` by default; switch to another supplied board only when the user explicitly names it. Fit narrative voice, information density, pacing, emotional intensity, visual identity, research depth, editorial language, and thumbnail psychology to the subject; do not imitate a specific creator.
 
 ## Workflow
 
